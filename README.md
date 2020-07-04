@@ -1,2 +1,2 @@
-# portaudio-x86_64-win32
-64-bit Windows libraries for portaudio
+# portaudio-x86_64-macosx
+native libraries for portaudio on the x86_64 Windows platform
